@@ -1,0 +1,149 @@
+c:\users\nicole v\documents\visual studio 2010\Projects\131L_EXER2\131L_EXER2\bin\Debug\131L_EXER2.exe
+c:\users\nicole v\documents\visual studio 2010\Projects\131L_EXER2\131L_EXER2\bin\Debug\131L_EXER2.pdb
+c:\users\nicole v\documents\visual studio 2010\Projects\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+c:\users\nicole v\documents\visual studio 2010\Projects\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+c:\users\nicole v\documents\visual studio 2010\Projects\131L_EXER2\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+c:\users\nicole v\documents\visual studio 2010\Projects\131L_EXER2\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+c:\users\nicole v\documents\visual studio 2010\Projects\131L_EXER2\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+c:\users\nicole v\documents\visual studio 2010\Projects\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.AddCustomer.resources
+c:\Users\Nicole V\Documents\Visual Studio 2010\Projects\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+c:\Users\Nicole V\Documents\Visual Studio 2010\Projects\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.AddCustomer.resources
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\hp\Downloads\131L_EXER2\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.AddCustomer.resources
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\hp\Downloads\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\IT131L-CT1-16\Downloads\131L_EXER5 (1)\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\Quino\Desktop\REFERENCES\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\caze00\Desktop\Mata, Raymundo, Sarmiento, Villaflor\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csprojResolveAssemblyReference.cache
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\IT132L-System\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Login.resources
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csprojResolveAssemblyReference.cache
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Login.resources
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\caze00\Desktop\IT132L-System - Copy (2)\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+C:\Users\caze00\Desktop\IT132L-System FINAL Copy\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\IT132L-System FINAL Copy\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Form1.resources
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Login.resources
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\caze00\Desktop\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csprojResolveAssemblyReference.cache
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Login.resources
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Menu.resources
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe.config
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\DGV Printer.dll
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\Add.resx
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\Add.cs
+D:\4th Term 2nd Yr\IT132L\Source Code Laundry Project\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\Add.Designer.cs
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe.config
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\Add.resx
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\Add.cs
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\Add.Designer.cs
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\bin\Debug\DGV Printer.dll
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csprojResolveAssemblyReference.cache
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Menu.resources
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Login.resources
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\caze00\Desktop\Sample\IT132L-LaundrySystem FINAL\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe.config
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\bin\Debug\Add.resx
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\bin\Debug\Add.cs
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\bin\Debug\Add.Designer.cs
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.exe
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\bin\Debug\131L_EXER2.pdb
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\bin\Debug\DGV Printer.dll
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csprojResolveAssemblyReference.cache
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Add.resources
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.EditDelete.resources
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Menu.resources
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Login.resources
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.Properties.Resources.resources
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\_131L_EXER2.ViewTable.resources
+C:\Users\caze00\Desktop\Sample\Laundry System Final Ver 2.0\131L_EXER5\131L_EXER2\obj\x86\Debug\131L_EXER5.csproj.GenerateResource.Cache
